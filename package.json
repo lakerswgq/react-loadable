@@ -1,0 +1,25 @@
+{
+  "name": "@tfboys/loadable",
+  "version": "0.0.1",
+  "description": "naive react loadable",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "react",
+    "loadable",
+    "tfboys"
+  ],
+  "author": "Julien",
+  "license": "MIT",
+  "peerDependencies": {
+    "react": "^16"
+  },
+  "devDependencies": {
+    "@babel/cli": "^7.2.3",
+    "@babel/core": "^7.4.0",
+    "@babel/preset-env": "^7.4.2",
+    "@babel/preset-react": "^7.0.0"
+  }
+}
