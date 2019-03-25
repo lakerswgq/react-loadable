@@ -15,6 +15,10 @@
     "tfboys"
   ],
   "author": "Julien",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/lakerswgq/react-loadable.git"
+  },
   "license": "MIT",
   "peerDependencies": {
     "react": "^16"
