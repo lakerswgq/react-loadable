@@ -62,7 +62,7 @@ const createLoadableComponent = (loadFn, options) => {
       }
     }
 
-    componentWillMount() {
+    componentDidMount() {
       this._mounted = true;
       this._loadModule();
     }
